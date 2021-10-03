@@ -1,0 +1,21 @@
+.sameLine {
+	display: flex;
+}
+
+.cell {
+	background-color: #63d8f7;
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+    font-size: xxx-large;
+    padding-top: 10px;
+    font-weight: 400;
+}
+
+#message {
+	font-weight: 400;
+}
+
+#resetGameButton {
+	background-color: #63d8f7;
+}
