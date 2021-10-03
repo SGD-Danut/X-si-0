@@ -27,7 +27,7 @@ function putXor0(line, column) {
 	if (currentPlayer == "X") {
 		currentPlayer = "0";
 	} else if (currentPlayer == "0") {
-				currentPlayer = "X";
+		currentPlayer = "X";
 	}
 	whoWin();
 }
